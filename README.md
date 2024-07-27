@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Felipe Gomes
 Desenvolvedor Full Stack em constante aprendizado!
 
 
